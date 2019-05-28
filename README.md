@@ -3,6 +3,7 @@ Huffman Coding also called as Huffman Encoding is a famous greedy algorithm that
 
 # How to run?
 gcc -w huff.c
+
 ./a.out
 
 
